@@ -1,0 +1,25 @@
+body {
+    background-image: url(bg3.jpeg);
+}
+.container{
+    width: 1050px;
+    margin: 0 auto;
+}
+    table,tr,td{
+    background-color: rgb(226, 236, 179);
+    font-family: Verdana;
+    border: 1px solid black;
+    padding: 5px;
+    border-collapse: collapse;
+ }
+ .h{
+    border: 8px groove rgb(215, 231, 185);
+    padding: 20px;
+ }
+legend {
+    font-size: 45px;
+    font-family: verdana;
+    color: rgb(215, 231, 185);
+    font-weight: bold;
+}
+
